@@ -8,5 +8,3 @@ Source: https://www.kaggle.com/nikitarom/planets-dataset
 Use satellite data to track the human footprint in the Amazon rainforest.
 
 ### - David Espinosa
-
----
